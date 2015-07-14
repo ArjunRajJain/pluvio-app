@@ -1,0 +1,18 @@
+.ff-tabbar.item {
+  color: #818181;
+  text-align: center;
+}
+
+.ff-tabbar.item.selected {
+  color: #f5f5f5;
+  background-color: #66ccff;
+}
+
+.ff-tabbar.background {
+  background-color: #25383C;
+}
+
+.spanClass {
+	display:inline-block;
+	font-family: Open Sans, sans-serif;
+}

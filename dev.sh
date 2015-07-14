@@ -1,0 +1,1 @@
+sudo METEOR_SETTINGS={} meteor
